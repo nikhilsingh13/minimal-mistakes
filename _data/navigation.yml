@@ -1,14 +1,14 @@
 # main links
 main:
-  - Blog: "Blog"
+  - title: "Blog"
     url: https://nikhilsingh13.github.io/blog
   - title: "Project Repositories"
     url: https://github.com/nikhilsingh13?tab=repositories
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "About"
+    url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Sample Posts"
+    url: /year-archive/
+  - title: "Sample Collections"
+    url: /collection-archive/
+  - title: "Sitemap"
+    url: /sitemap/
